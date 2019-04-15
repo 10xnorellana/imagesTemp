@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:odm="http://product.corel.com/CGS/11/cddns/" xml:space="preserve" width="773px" height="1000px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd"
+     viewBox="0 0 774 1000">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:#792177}
+    .fil0 {fill:#79BCE5}
+    .fil2 {fill:#FFFFFF}
+   ]]>
+  </style>
+ </defs>
+ <g id="Capa 1">
+  <path class="fil0" d="M318 612l188 0c7,0 13,-5 13,-12l0 -119c0,-7 -6,-12 -13,-12l-188 0c-7,0 -13,5 -13,12l0 119c0,7 6,12 13,12z"/>
+  <path class="fil1" d="M319 450c32,-10 66,-6 93,17 26,-23 60,-27 92,-17l0 139c-31,-9 -66,-2 -92,17 -27,-19 -62,-26 -93,-17l0 -139z"/>
+  <path class="fil2" d="M452 529l-31 18 -30 17c-8,5 -11,0 -11,-6l0 -36 0 -30c1,-13 8,-13 18,-7l24 13 30 18c5,3 6,9 0,13z"/>
+ </g>
+</svg>

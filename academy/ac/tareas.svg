@@ -1,0 +1,20 @@
+<svg width="280" height="280" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#792177}
+   ]]>
+  </style>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="282" width="282" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="Capa 1">
+   <path id="svg_1" d="m115,148l12,-11l16,-14l49,-41l20,23l-49,42l-16,13l-13,11l-32,10l13,-33zm82,-70l10,-9c4,-3 10,-3 14,1l7,9c3,4 3,10 -1,14l-10,8l-20,-23z" class="fil0"/>
+   <path id="svg_2" d="m62,46l11,0l0,13c-2,2 -3,4 -3,7c0,5 3,9 8,9c5,0 9,-4 9,-9c0,-3 -2,-5 -4,-7l0,-13l29,0l0,13c-3,1 -4,4 -4,7c0,4 4,9 8,9c5,0 9,-4 9,-9c0,-3 -2,-6 -4,-7l0,-13l29,0l0,13c-2,2 -4,4 -4,7c0,5 4,9 9,9c4,0 8,-4 8,-9c0,-3 -1,-5 -4,-7l0,-13l11,0c6,0 12,5 12,12l0,20l-28,24l-25,21l-19,17l-20,51l50,-14l19,-17l23,-20l0,70c0,7 -6,12 -12,12l-108,0c-6,0 -12,-5 -12,-12l0,-152c0,-7 6,-12 12,-12z" class="fil0"/>
+  </g>
+ </g>
+</svg>

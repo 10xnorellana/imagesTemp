@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:odm="http://product.corel.com/CGS/11/cddns/" xml:space="preserve" width="773px" height="1000px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd"
+     viewBox="0 0 774 1000">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#792177}
+    .fil1 {fill:#79BCE5}
+    .fil2 {fill:#FFFFFF}
+   ]]>
+  </style>
+ </defs>
+ <g id="Capa 1">
+  <path class="fil0" d="M602 452l46 0c1,6 2,13 3,15 0,2 4,-1 5,-1 4,0 11,1 15,0 4,0 5,-8 5,-14l45 0c8,0 15,7 15,15l0 136c0,8 -7,15 -15,15l-119 0c-8,0 -15,-7 -15,-15l0 -136c0,-8 7,-15 15,-15z"/>
+  <path class="fil1" d="M707 452l0 12c0,12 -10,23 -23,23l-45 0c-12,0 -23,-11 -23,-23l0 -12 25 0c0,-1 0,-3 0,-4 0,-11 9,-21 21,-21 11,0 21,10 21,21 0,1 0,3 -1,4l25 0zm-45 -15c6,0 11,5 11,11 0,7 -5,12 -11,12 -7,0 -12,-5 -12,-12 0,-6 5,-11 12,-11z"/>
+  <path class="fil1" d="M681 528c3,-4 8,-5 13,-1 9,10 18,22 18,21 0,0 40,-63 45,-69 5,-7 16,3 12,14 -4,10 -36,69 -50,88 -1,2 -5,1 -6,1 -6,-2 -18,-23 -27,-39 -3,-4 -7,-12 -5,-15z"/>
+  <path class="fil2" d="M612 577l78 0c3,0 5,3 5,7l0 0c0,4 -2,7 -5,7l-78 0c-3,0 -5,-3 -5,-7l0 0c0,-4 2,-7 5,-7zm0 -67l60 0c3,0 5,3 5,6l0 0c0,4 -2,7 -5,7l-60 0c-3,0 -5,-3 -5,-7l0 0c0,-3 2,-6 5,-6zm0 33l60 0c3,0 5,3 5,7l0 0c0,4 -2,7 -5,7l-60 0c-3,0 -5,-3 -5,-7l0 0c0,-4 2,-7 5,-7z"/>
+ </g>
+</svg>
